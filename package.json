@@ -1,0 +1,30 @@
+{
+  "name": "node-express-review",
+  "version": "1.0.0",
+  "description": "Node.js and Express review: routes, middleware, request/response, and params/query.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesustortoleroh/node-express-review.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "review"
+  ],
+  "author": "Jesusortolero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesustortoleroh/node-express-review/issues"
+  },
+  "homepage": "https://github.com/Jesustortoleroh/node-express-review#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
